@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgetting_started_using_a_configuration=self.webpackChunkgetting_started_using_a_configuration||[]).push([[706],{706:t=>{t.exports={title:"hello"}}}]);
